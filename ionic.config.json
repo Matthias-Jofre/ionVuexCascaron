@@ -1,0 +1,7 @@
+{
+  "name": "ionVuex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
