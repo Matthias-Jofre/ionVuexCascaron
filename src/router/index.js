@@ -9,6 +9,10 @@ const routes = [
     redirect: "/users",
   },
   {
+    path: "/",
+    redirect: "/userss",
+  },
+  {
     path: "/users",
     component: Users,
   },
