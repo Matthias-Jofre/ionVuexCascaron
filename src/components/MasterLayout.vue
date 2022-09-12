@@ -1,4 +1,5 @@
 <template>
+  
     <ion-page>
       <ion-header>
         <ion-toolbar>
@@ -6,10 +7,11 @@
         </ion-toolbar>
       </ion-header>
       <ion-content>
-        <slot> </slot>
+        <slot></slot>
       </ion-content>
     </ion-page>
   </template>
+
   <script>
   import {
     IonPage,
